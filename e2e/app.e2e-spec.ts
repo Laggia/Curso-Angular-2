@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('curso-angular App', () => {
+describe('curso-angular-dos App', () => {
   let page: AppPage;
 
   beforeEach(() => {
